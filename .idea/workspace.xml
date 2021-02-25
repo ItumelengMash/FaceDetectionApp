@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5147c39-d9a9-4685-9105-1443900f0710" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U6u3qMhr5RUA15nJ0IWW7NO04Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FDBasics.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Itumeleng\PycharmProjects\FaceDetection\venv library root" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.faceDetect">
+    <configuration name="FDBasics" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FaceDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FDBasics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FaceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faceDetect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\I531157\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FDBasics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FDBasics" />
+      <item itemvalue="Python.faceDetect" />
+      <item itemvalue="Python.FaceDetection" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.faceDetect" />
+        <item itemvalue="Python.FaceDetection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5147c39-d9a9-4685-9105-1443900f0710" name="Default Changelist" comment="" />
+      <created>1574689170872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574689170872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="256" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612967495304">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2334" y="256" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612967495304" />
+    <state x="2660" y="356" key="FileChooserDialogImpl" timestamp="1612967370766">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2660" y="356" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612967370766" />
+    <state width="1899" height="332" key="GridCell.Tab.0.bottom" timestamp="1612970999314">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999314" />
+    <state width="1899" height="332" key="GridCell.Tab.0.center" timestamp="1612970999314">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999314" />
+    <state width="1899" height="332" key="GridCell.Tab.0.left" timestamp="1612970999313">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999313" />
+    <state width="1899" height="332" key="GridCell.Tab.0.right" timestamp="1612970999314">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="332" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999314" />
+    <state width="949" height="411" key="GridCell.Tab.1.bottom" timestamp="1612970999293">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="949" height="411" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999293" />
+    <state width="949" height="411" key="GridCell.Tab.1.center" timestamp="1612970999292">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="949" height="411" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999292" />
+    <state width="949" height="411" key="GridCell.Tab.1.left" timestamp="1612970999292">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="949" height="411" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999292" />
+    <state width="949" height="411" key="GridCell.Tab.1.right" timestamp="1612970999293">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="949" height="411" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612970999293" />
+    <state x="2381" y="243" key="SettingsEditor" timestamp="1612967810622">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2381" y="243" key="SettingsEditor/0.0.1280.720/1920.0.1920.1200@1920.0.1920.1200" timestamp="1612967810622" />
+  </component>
+</project>
